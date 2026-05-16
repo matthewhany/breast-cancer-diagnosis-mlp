@@ -54,7 +54,7 @@ The dataset used in this project is the Breast Cancer Wisconsin dataset from Sci
 
 
 
-Dataset source:
+
 
 
 
@@ -318,5 +318,6 @@ These plots help show how the model learned during training and how the experime
 
 
 ```bash
+https://github.com/matthewhany/breast-cancer-diagnosis-mlp.git
 
 
