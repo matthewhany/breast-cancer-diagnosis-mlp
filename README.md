@@ -1,5 +1,7 @@
 # Breast Cancer Diagnosis Using MLP
 
+Student Name: Matthew Hany Refaie
+Section:DS2
 
 
 ## Project Description
@@ -56,7 +58,7 @@ Dataset source:
 
 
 
-https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load\_breast\_cancer.html
+Dataset source: [Scikit-learn Breast Cancer Wisconsin Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
 
 
 
